@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shoruz, this is Github Stats</h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shoruz, this is Github Stats</h1>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
