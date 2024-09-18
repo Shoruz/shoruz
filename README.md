@@ -20,9 +20,6 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoruz&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="shoruz" /></a> </p>
-<!--- trophy (end) -->
 
 
 </p>        
